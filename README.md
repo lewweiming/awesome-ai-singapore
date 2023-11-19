@@ -1,5 +1,9 @@
 # awesome-ai-singapore
 
+## AI Platforms
+
+- https://runwayml.com
+
 ## Top AI Startups Singapore 2023
 
 - Trax
